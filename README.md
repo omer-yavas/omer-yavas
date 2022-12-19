@@ -8,17 +8,19 @@
 
 ## 💻 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) 
 
 ## :star2: My Projects: 
-## With React
+## With React and TypeScript
 - <a href="https://project-sagegrader.netlify.app" target="_blank" >SageGrader React Website</a>
-- <a href="https://movie-app-mkaruc.vercel.app/" target="_blank" >Firebase-Movie-App</a>
+
+## With React and React Testing Library
+- <a href="https://github.com/omer-yavas/dailyStudyReact/tree/main/ProjectMarketList" target="_blank" >Project-MarketList with Test<</a>
  
 ## With Vanilla JS
  
  - <a href="https://projectmapty-byomery.netlify.app" target="_blank" >Mapty Project</a>
- - <a href="https://projectforkify-byomery.netlify.app" target="_blank" >Forfify Project</a>
+ - <a href="https://projectforkify-byomery.netlify.app" target="_blank" >Forkify Project</a>
  
 
 
