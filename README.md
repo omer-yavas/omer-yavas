@@ -12,7 +12,7 @@
 
 ## :star2: My Projects: 
 ## With React
-- <a href="https://github.com/omer-yavas/dailyStudyReact/tree/main/ProjectDarkTheme-SASS/dark-theme" target="_blank" >Dark Theme - World Cup</a>
+- <a href="https://dark-light-theme-byomery.netlify.app/" target="_blank" >Dark Theme - World Cup</a><a href="https://github.com/omer-yavas/dailyStudyReact/tree/main/ProjectDarkTheme-SASS/dark-theme" target="_blank" > (go to repo)</a>
 
 ## With React and TypeScript
 - <a href="https://project-sagegrader.netlify.app" target="_blank" >SageGrader React Website</a>
