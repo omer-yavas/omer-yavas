@@ -12,7 +12,6 @@
 
 ## :star2: My Projects: 
 ## With React
-- <a href="https://dark-light-theme-byomery.netlify.app/" target="_blank" >Dark Theme - World Cup</a><a href="https://github.com/omer-yavas/dailyStudyReact/tree/main/ProjectDarkTheme-SASS/dark-theme" target="_blank" > (   ...go to source code)</a>
 - <a href="https://github.com/omer-yavas/dailyStudyReact/tree/main/project-soccer-players" target="_blank" >Project Soccer Players</a>
 
 ## With React and TypeScript
