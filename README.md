@@ -12,7 +12,7 @@
 
 ## :star2: My Projects: 
 ## With React
-- <a href="https://github.com/omer-yavas/dailyStudyReact/tree/main/project-soccer-players" target="_blank" >Project Soccer Players</a>
+- <a href="https://github.com/omer-yavas/dailyStudyReact/tree/main/project-soccer-players" target="_blank" >Project Soccer Players</a>...<a href="https://63d38721e8f5db633411ab5c--project-soccerplayers.netlify.app/" target="_blank" >(Click for live version)</a>
 
 ## With React and TypeScript
 - <a href="https://project-sagegrader.netlify.app" target="_blank" >SageGrader React Website</a>
