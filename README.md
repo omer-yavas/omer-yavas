@@ -15,11 +15,8 @@
 - <a href="https://github.com/omer-yavas/dailyStudyReact/tree/main/project-soccer-players" target="_blank" >Project Soccer Players</a>...<a href="https://project-soccerplayers.netlify.app" target="_blank" >(Click for live version)</a>
 
 ## With React and TypeScript
-- <a href="https://github.com/omer-yavas/Project-SageGrader" target="_blank" >SageGrader React Website</a>...<a href="https://project-sagegrader.netlify.app" target="_blank" >(Click for live version)</a>
+- <a href="https://github.com/omer-yavas/projectBlogPosts" target="_blank" >Project Blog-Posts</a>...<a href="https://project-blogposts.netlify.app/" target="_blank" >(Click for live version)</a>
 
-## With React and React Testing Library
-- <a href="https://github.com/omer-yavas/dailyStudyReact/tree/main/ProjectMarketList" target="_blank" >Project-MarketList with Test</a>
- 
 ## With Vanilla JS
  
  - <a href="https://github.com/omer-yavas/projectMapty" target="_blank" >Mapty Project</a>...<a href="https://projectmapty-byomery.netlify.app" target="_blank" >(Click for live version)</a>
